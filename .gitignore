@@ -1,0 +1,13 @@
+.DS_Store
+*.exe
+thumbs.db
+*.png
+*.jpg
+.vscode/*
+.idea/*
+*.pdf
+*/__pycache__/*
+__pycache__/*
+Pipfile
+Pipfile.lock
+*.pyc
